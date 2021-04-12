@@ -1,6 +1,11 @@
 # 201744028 이기훈
 ## 7주차 과제
 
+***
+<img width="" height="" src="./png/OPServer.png"></img>
+<img width="" height="" src="./png/OPClient.png"></img>
+***
+
 [네이버](https://naver.com)
 
 - 첫 번째
@@ -17,7 +22,3 @@
 ```
 코드 블럭 안
 ```
-***
-
-<img width="" height="" src="./png/OPServer.PNG"></img>
-<img width="" height="" src="./png/OPClient.PNG"></img>
